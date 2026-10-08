@@ -27,7 +27,7 @@ void runReportGeneratorTask() {
       title: '空安全实验',
       author: '李华',
       experimentNo: 2,
-      className: '信息管理1班',
+      className: '计科',
     ),
   );
 
@@ -37,7 +37,7 @@ void runReportGeneratorTask() {
       title: '控制流实验',
       author: '李华',
       experimentNo: 3,
-      className: '信息管理1班',
+      className: '计科',
       conclusion: '程序运行正常，边界测试通过',
     ),
   );
