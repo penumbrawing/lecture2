@@ -3,6 +3,7 @@ import 'func_demo.dart';
 import 'types_demo.dart';
 import 'null_safety_task.dart';
 import 'report_generator.dart';
+import 'grade_classifier.dart';
 
 void main() {
   print('Dart基础语法合集\n');
@@ -20,4 +21,6 @@ void main() {
 
   print('');
   runReportGeneratorTask();
+  print('');
+  runGradeClassifierTask();
 }
