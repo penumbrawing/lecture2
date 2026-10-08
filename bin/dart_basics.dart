@@ -1,6 +1,7 @@
 import 'flow_demo.dart';
 import 'func_demo.dart';
 import 'types_demo.dart';
+import 'null_safety_task.dart';
 
 void main() {
   print('Dart基础语法合集\n');
@@ -12,4 +13,7 @@ void main() {
   print('');
 
   runFlowDemo();
+
+  print('');
+  runNullSafetyTask();
 }
